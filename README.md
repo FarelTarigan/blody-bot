@@ -10,7 +10,7 @@ Simple WhatsApp Bot
 > pkg install imagemagick -y
 > git clone https://github.com/FarelTarigan/blody-bot
 > cd blody-bot
-> npm install
+> npm installl
 ```
 ###### Run
 ```bash
